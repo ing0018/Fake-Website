@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    font-size: 30px;
+}
+#PrinterSelectionHeader{
+    color: white;
+}
+#Heading{
+    color: white;
+    text-align: center;
+}
+#PrintButton{
+    width: auto;
+    padding: 20px 40px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.PrinterSelection{
+    color: black;
+    width: auto;
+    padding: 20px 40px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+#ForumHeading{
+    color: white;
+}
+.UserHeading{
+    color: white;
+}
+.UserComment{
+    color: white;
+}
